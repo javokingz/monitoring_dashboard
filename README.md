@@ -1,4 +1,4 @@
-# monitoring_dashboard
+# Monitoringdashboard 📊
 Dashboard for monitoring instances in AWS accounts
 
 Este dashboard incluye las siguientes características:
@@ -42,5 +42,5 @@ AWS_REGION = "tu_region"
 ### Ejecutar la aplicación:
 
 ```
-streamlit run dashboard.py
+streamlit run main.py
 ```
